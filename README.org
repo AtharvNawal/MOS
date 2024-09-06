@@ -37,7 +37,6 @@
 - Python
 
 * Using...
-- git clone https://github.com/tripples/MOS.git
 - cd MOS/`your desired phase`
 - make
 - ./mos
