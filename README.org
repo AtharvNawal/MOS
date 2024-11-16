@@ -4,8 +4,7 @@
 - Project consited of three phases. Phase3 is final phase for project.
 - Works for any no. of jobs. Supports input spooling, output spooling,
   paging.
-- First two phases consist of only C code.Phase 3 consist of python wrapper
-  over original code.
+- Two phases consist of C code.
 
 * MOS(Multiprogramming Operating System)
 - Used for execution of multiple jobs
@@ -31,10 +30,6 @@
 
 * Tools used
 - Gcc compiler
-- Emacs
-- Gdb
-- Gprof,Gcov,Cscope
-- Python
 
 * Using...
 - cd MOS/`your desired phase`
