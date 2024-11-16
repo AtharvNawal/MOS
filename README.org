@@ -1,7 +1,7 @@
 
 - This is my Operating System Course Project. 
 - A Virtual Implemention of routines of OS.
-- Project consited of three phases. Phase3 is final phase for project.
+- Project consited of two phases.
 - Works for any no. of jobs. Supports input spooling, output spooling,
   paging.
 - Two phases consist of C code.
